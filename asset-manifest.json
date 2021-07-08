@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-gs-connect/static/css/main.5f73f583.chunk.css",
+    "main.js": "/react-gs-connect/static/js/main.db2f3d2a.chunk.js",
+    "main.js.map": "/react-gs-connect/static/js/main.db2f3d2a.chunk.js.map",
+    "runtime-main.js": "/react-gs-connect/static/js/runtime-main.074f8431.js",
+    "runtime-main.js.map": "/react-gs-connect/static/js/runtime-main.074f8431.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/react-gs-connect/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.46d04c3a.chunk.js": "/react-gs-connect/static/js/2.46d04c3a.chunk.js",
+    "static/js/2.46d04c3a.chunk.js.map": "/react-gs-connect/static/js/2.46d04c3a.chunk.js.map",
+    "static/js/3.1176fd0f.chunk.js": "/react-gs-connect/static/js/3.1176fd0f.chunk.js",
+    "static/js/3.1176fd0f.chunk.js.map": "/react-gs-connect/static/js/3.1176fd0f.chunk.js.map",
+    "index.html": "/react-gs-connect/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/react-gs-connect/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.5f73f583.chunk.css.map": "/react-gs-connect/static/css/main.5f73f583.chunk.css.map",
+    "static/js/2.46d04c3a.chunk.js.LICENSE.txt": "/react-gs-connect/static/js/2.46d04c3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.074f8431.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.46d04c3a.chunk.js",
+    "static/css/main.5f73f583.chunk.css",
+    "static/js/main.db2f3d2a.chunk.js"
+  ]
+}
