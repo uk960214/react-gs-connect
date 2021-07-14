@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-gs-connect/static/css/main.315f2006.chunk.css",
-    "main.js": "/react-gs-connect/static/js/main.3b17bd66.chunk.js",
-    "main.js.map": "/react-gs-connect/static/js/main.3b17bd66.chunk.js.map",
+    "main.js": "/react-gs-connect/static/js/main.e43a29e2.chunk.js",
+    "main.js.map": "/react-gs-connect/static/js/main.e43a29e2.chunk.js.map",
     "runtime-main.js": "/react-gs-connect/static/js/runtime-main.bbef2c89.js",
     "runtime-main.js.map": "/react-gs-connect/static/js/runtime-main.bbef2c89.js.map",
     "static/css/2.6d7c7915.chunk.css": "/react-gs-connect/static/css/2.6d7c7915.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.c4b35513.chunk.js",
     "static/css/main.315f2006.chunk.css",
-    "static/js/main.3b17bd66.chunk.js"
+    "static/js/main.e43a29e2.chunk.js"
   ]
 }
